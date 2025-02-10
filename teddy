@@ -87,6 +87,6 @@
         <circle cx="70" cy="110" r="5" fill="#ff9999" />
         <circle cx="130" cy="110" r="5" fill="#ff9999" />
     </svg>
-    <div class="message">This is for you, cutie! ❤️</div>
+    <div class="message">This is for you, cutie!</div>
 </body>
 </html>
